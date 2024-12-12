@@ -1,0 +1,16 @@
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\EncryptionExample.Form1.resources
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\Учебная практика\Задание 5\Project1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
